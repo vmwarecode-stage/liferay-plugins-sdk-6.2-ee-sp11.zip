@@ -1,1 +1,0 @@
-# liferay-plugins-sdk-6.2-ee-sp11.zip
